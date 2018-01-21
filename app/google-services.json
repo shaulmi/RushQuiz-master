@@ -1,0 +1,58 @@
+{
+  "project_info": {
+    "project_number": "815235522180",
+    "firebase_url": "https://rushquiz-b3190.firebaseio.com",
+    "project_id": "rushquiz-b3190",
+    "storage_bucket": "rushquiz-b3190.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815235522180:android:510824f95d6ff33f",
+        "android_client_info": {
+          "package_name": "com.example.shaul.rushquiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "815235522180-v3q67bn97dkukjpdmgqrr7ekj793d6kn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shaul.rushquiz",
+            "certificate_hash": "3e0a4077a594a98574bc64516c993291a912d4b1"
+          }
+        },
+        {
+          "client_id": "815235522180-n8t45h8htreauhrgvor9ckb8da846tb3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIz4lFf0hVsvs-s2xe0CUSfyzJlBo6o5M"
+        },
+        {
+          "current_key": "AIzaSyDwzLkLIyO1Mm0gMep7oY3-fI3DYfrlSV4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "815235522180-n8t45h8htreauhrgvor9ckb8da846tb3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

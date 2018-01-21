@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/speed"
+    android:gravity="center"
+    android:orientation="vertical"
+    >
+    <Button
+        android:id="@+id/buttonNewGame"
+        android:layout_width="match_parent"
+        android:layout_height="96dp"
+        android:textSize="36sp"
+        android:layout_marginBottom="10dp"
+        android:background="@color/green"
+        android:textColor="@color/red"
+        android:text="משחק חדש"
+         />
+
+    <Button
+        android:id="@+id/bHighScore"
+        android:layout_width="match_parent"
+        android:layout_height="64dp"
+        android:layout_marginBottom="10dp"
+        android:drawableLeft="@drawable/cup"
+        android:text="שיאים"
+        android:textAppearance="@style/Add" />
+
+</LinearLayout>
